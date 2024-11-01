@@ -1,4 +1,4 @@
-# galleria-predictions
+# Performance, Financial Prediction, and Customer Insights for Galleria Mall
 ## Introduction
 This report offers a comprehensive analysis of Galleria Mall’s performance, financial predictions, customer insights, and competitor landscape.
 
