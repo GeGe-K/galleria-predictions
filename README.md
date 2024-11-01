@@ -32,7 +32,6 @@ The project follows the CRISP-DM framework to provide actionable insights based 
 
 ## Tools and Technologies
 - **Python/Pandas**: For data cleaning, preparation, and analysis.
-- **Excel/CSV**: For handling the first half of the dataset.
 - **Power BI**: For data visualization and dashboard creation.
 - **Jupyter Notebook/VS Code**: For code development and documentation.
 
